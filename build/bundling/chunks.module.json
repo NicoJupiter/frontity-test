@@ -1,0 +1,58 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.1",
+  "hash": "b8c189000991ed2d4ee2",
+  "publicPath": "/static/",
+  "outputPath": "D:\\PistilWork\\jsnation-frontity\\build\\static",
+  "assetsByChunkName": {
+    "jsnation-frontity": "jsnation-frontity.module.js"
+  },
+  "assets": [
+    {
+      "name": "jsnation-frontity.module.js",
+      "size": 4847479,
+      "chunks": [
+        "jsnation-frontity"
+      ],
+      "chunkNames": [
+        "jsnation-frontity"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "jsnation-frontity": {
+      "chunks": [
+        "jsnation-frontity"
+      ],
+      "assets": [
+        "jsnation-frontity.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "jsnation-frontity": {
+      "chunks": [
+        "jsnation-frontity"
+      ],
+      "assets": [
+        "jsnation-frontity.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": []
+}
